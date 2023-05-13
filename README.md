@@ -7,6 +7,7 @@ Files
 Download the following files to help you get started:
 
 Module 9 Challenge filesLinks to an external site.
+https://static.bc-edx.com/data/dl-1-2/m9/lms/starter/m9-starter-code.zip
 
 Instructions
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
